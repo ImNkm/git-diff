@@ -1,1 +1,2 @@
-haahahahah
+print('hahaha')
+print(list('python'))
